@@ -1,0 +1,27 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Research
+  url: /research/
+
+- title: Publication
+  url: /publication/
+
+- title: Presentations
+  url: /presentations/
+
+- title: Demo
+  url: /demo/
+
+- title: Software
+  url: /software/
+
+- title: Resume
+  url: /resume/
+
+- title: Blog
+  url: /blog/
+
+- title: About
+  url: /about/
