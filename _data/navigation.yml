@@ -2,17 +2,8 @@
 - title: Home
   url: /
 
-- title: Research
-  url: /research/
+- title: Project
+  url: /project/
 
-- title: Presentations
-  url: /presentations/
-
-- title: Resume
-  url: /resume/
-
-- title: Blog
-  url: /blog/
-
-- title: About
-  url: /about/
+- title: C.V. (PDF)
+  url: /assets/doc/Yuzhong_Huang_Curriculum_Vitae.pdf

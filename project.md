@@ -1,4 +1,4 @@
 ---
 layout: post-index
-title: Research
+title: Project
 ---
