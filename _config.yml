@@ -7,22 +7,22 @@ logo:             # filename of a logo image that has been placed into your imag
 # url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Yuzhong(Eugene) Huang
+  name: Yuzhong Huang
   avatar: bio-photo.jpg
-  bio: "Machine Learning Researcher & Engineer"
-  email: eugenehuangcs@gmail.com
+  bio: "Ph.D. Student at USC"
+  email: yuzhongh@usc.edu
   twitter: #username
   facebook: #username
   instagram: #username
-  linkedin: eugene-huang-2007a384
-  github: EugeneHuangCS
+  linkedin: yuzhong-huang-2007a384
+  github: YuzhongHuangCS
   researchgate: #username
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: l-LjJLkAAAAJ
   bing-verify:
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   xing: #username
