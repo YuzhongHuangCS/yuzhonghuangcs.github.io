@@ -6,5 +6,5 @@ excerpt: "CVEU workshop at ICCV 2021"
 category: blog
 ---
  <script type="text/javascript">
-         window.location.href = "https://yuzhonghuang.org/VideoTrim/"
+         window.location.href = "http://yuzhonghuang.org/VideoTrim/"
  </script>
