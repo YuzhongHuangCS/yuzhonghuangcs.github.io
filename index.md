@@ -2,16 +2,16 @@
 layout: page
 excerpt: "About Me"
 ---
-I am a Ph.D. student at University of Southern California (since Fall 2019), working with Prof. [Fred Morstatter](https://isi.edu/~fredmors/) and Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about). My research interest is natural language processing, graph neural network, and embedding learning in general.
+I am a Ph.D. candidate at University of Southern California (Fall 2019 - Dec 2023 (expected)), working with Prof. [Fred Morstatter](https://isi.edu/~fredmors/) and Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about). My research interest is Computer Vision and 3D reconstruction. I also have general interest in natural language processing and graph neural network.
+
+Feel free to take a look at my [Resume](/assets/doc/Yuzhong_Huang_Resume.pdf) / [Google Scholar](https://scholar.google.fr/citations?user=l-LjJLkAAAAJ) / [Publication](/publication/)
+
+In summer 2022, I did an internship at Facebook Reality Lab, working with [Chen Liu](http://art-programmer.github.io/) 
 
 In summer 2020, I did an internship at Adobe Research, working with [Xue Bai](https://sites.google.com/view/xuebai/home) and [Aseem Agarwala](http://www.agarwala.org/).
 
-In 2017, I joined [Coohom](https://www.coohom.com/) working on renderer engine and image super resolution.
+In May 2019, I earned my master's degree in Electrical Engineering from University of Southern California.
 
-In 2016, I earned my undergraduate degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/).
+In 2017, I joined [Coohom](https://www.coohom.com/) working on renderer engine and image super resolution, working with [Rui Tang](https://scholar.google.com/citations?user=dwvfKSkAAAAJ)
 
-<!---During my undergraduate study, I worked in the [Digital Media Computing & Design Lab](http://www.dcd.zju.edu.cn/){:target="_blank"} under [Siliang Tang](http://person.zju.edu.cn/en/siliang){:target="_blank"}. I contributed to the ZJU Entity Discovery and Linking System and won the first place in the NIST 2016 Text Analysis Conference Knowledge Base Population Contest.
-
-After graduate, I joined [Qunhe Information Technology](http://www.kujiale.com/){:target="_blank"} as a research engineer. I have created an automated floor plan recognition system, and currently working on 3D scenes style transfer. My research interests focus on machine learning, especially on reinforcement learning and transfer learning.
-
---->
+In June 2016, I earned my undergraduate degree in Computer Science from [Zhejiang University](https://www.zju.edu.cn/english/). I worked in the [Digital Media Computing & Design Lab](http://www.dcd.zju.edu.cn/){:target="_blank"} with [Siliang Tang](http://person.zju.edu.cn/en/siliang){:target="_blank"}.
