@@ -6,7 +6,7 @@ I am a Ph.D. candidate at University of Southern California (Fall 2019 - Dec 202
 
 Feel free to take a look at my [Resume](/assets/doc/Yuzhong_Huang_Resume.pdf) / [Google Scholar](https://scholar.google.fr/citations?user=l-LjJLkAAAAJ) / [Publication](/publication/)
 
-In summer 2022, I did an internship at Facebook Reality Lab, working with [Chen Liu](http://art-programmer.github.io/) 
+In summer 2022, I did an internship at Meta Reality Lab, working with [Chen Liu](http://art-programmer.github.io/) 
 
 In summer 2020, I did an internship at Adobe Research, working with [Xue Bai](https://sites.google.com/view/xuebai/home) and [Aseem Agarwala](http://www.agarwala.org/).
 
