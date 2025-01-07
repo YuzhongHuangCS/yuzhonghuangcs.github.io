@@ -6,9 +6,15 @@ I am a Ph.D. candidate at University of Southern California (Fall 2019 - Dec 202
 
 Feel free to take a look at my [Resume](/assets/doc/Yuzhong_Huang_Resume.pdf) / [Google Scholar](https://scholar.google.fr/citations?user=l-LjJLkAAAAJ) / [Publication](/publication/)
 
-In summer 2022, I did an internship at Meta Reality Lab, working with [Chen Liu](http://art-programmer.github.io/) 
+In Dec 2024, I successfully defended my Ph.D. thesis titled: *Semantic Structure in Understanding and Generation of the 3D World*.
 
-In summer 2020, I did an internship at Adobe Research, working with [Xue Bai](https://sites.google.com/view/xuebai/home) and [Aseem Agarwala](http://www.agarwala.org/).
+In Jan 2024, I started as a Senior Computer Vision Engineer at [Hover](https://hover.to/)
+
+In summer 2023, I did an internship at OPPO US Research Center, working with [Zhong Li](https://sites.google.com/site/lizhong19900216)
+
+In summer 2022, I did an internship at Meta Reality Lab, working with [Chen Liu](https://art-programmer.github.io/)
+
+In summer 2020, I did an internship at Adobe Research, working with [Xue Bai](https://sites.google.com/view/xuebai/home) and [Aseem Agarwala](https://www.agarwala.org/).
 
 In May 2019, I earned my master's degree in Electrical Engineering from University of Southern California.
 
