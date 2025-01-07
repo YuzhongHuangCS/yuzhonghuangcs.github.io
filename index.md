@@ -2,7 +2,7 @@
 layout: page
 excerpt: "About Me"
 ---
-I am a Ph.D. candidate at University of Southern California (Fall 2019 - Dec 2023 (expected)), working with Prof. [Fred Morstatter](https://isi.edu/~fredmors/) and Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about). My research interest is Computer Vision and 3D reconstruction. I also have general interest in natural language processing and graph neural network.
+I am a Ph.D. candidate at University of Southern California (Fall 2019 - Dec 2024), working with Prof. [Fred Morstatter](https://isi.edu/~fredmors/) and Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about). My research interest is Computer Vision and 3D reconstruction. I also have general interest in natural language processing and graph neural network.
 
 Feel free to take a look at my [Resume](/assets/doc/Yuzhong_Huang_Resume.pdf) / [Google Scholar](https://scholar.google.fr/citations?user=l-LjJLkAAAAJ) / [Publication](/publication/)
 
